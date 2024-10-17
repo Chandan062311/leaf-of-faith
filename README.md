@@ -119,5 +119,5 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 
 ## 📫 Contact
 
-For any inquiries or support, feel free to reach out at: youremail@example.com
+For any inquiries or support, feel free to reach out at: chandansatwani422@gmail.com
 ```
